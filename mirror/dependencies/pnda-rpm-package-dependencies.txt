@@ -1,6 +1,11 @@
 acl
 apr
 apr-util
+ambari-agent-2.5.0.3-7
+ambari-metrics-collector-2.5.0.3-7
+ambari-metrics-hadoop-sink-2.5.0.3-7
+ambari-metrics-monitor-2.5.0.3-7
+ambari-server-2.5.0.3-7
 at
 cloudera-manager-agent-5.9.0-1.cm590.p0.249.el7
 cloudera-manager-daemons-5.9.0-1.cm590.p0.249.el7

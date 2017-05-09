@@ -9,6 +9,9 @@ All notable changes to this project will be documented in this file.
 - PNDA-3060: Use default versions of distro base packages
 - [PNDA-2918]: Add HDP files to mirror
 
+### Added
+- [PNDA-2917]: Add Ambari deb and rpm resources to mirror
+
 ## [0.1.1] 2017-01-20
 ### Changed
 - Updated dependencies for build tools
