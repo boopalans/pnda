@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file.
 - PNDA-2894: review repo org and update documentation
 - PNDA-2984: Upgrade JDK to 8u131
 - PNDA-3060: Use default versions of distro base packages
+- [PNDA-2918]: Add HDP files to mirror
 
 ## [0.1.1] 2017-01-20
 ### Changed
