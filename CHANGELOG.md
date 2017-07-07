@@ -11,6 +11,7 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 - [PNDA-2917]: Add Ambari deb and rpm resources to mirror
+- PNDA-2445: Support for Hortonworks HDP hadoop distro.
 
 ## [0.1.1] 2017-01-20
 ### Changed
