@@ -25,7 +25,7 @@ function build_error {
 
 echo building ${repo}:${branch} in ${mode} mode
 cd ${stage_dir}
-git clone --branch ${branch} https://github.com/pndaproject/${repo}.git
+git clone --branch ${branch} https://github.com/boopalans/${repo}.git
 cd ${repo}
 if [[ ${mode} == "RELEASE" ]]; then
     VERSION=$(git describe --abbrev=0 --tags)
